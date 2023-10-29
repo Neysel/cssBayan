@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.faq {
+    max-width: 500px;
+    margin: 20px auto;
+}
